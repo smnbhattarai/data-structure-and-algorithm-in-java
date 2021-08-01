@@ -6,3 +6,5 @@
 - Queue (including priority queue)
 - Hash Table
 - Tree
+- AVL Tree
+- Heaps
