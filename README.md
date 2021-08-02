@@ -8,3 +8,5 @@
 - Tree
 - AVL Tree
 - Heaps
+- Tries
+- Graph
